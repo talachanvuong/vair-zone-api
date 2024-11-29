@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAirZoneWebAPI", "VAirZoneWebAPI.csproj", "{24BD5553-C378-4C02-8F79-BE06F70C0366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BD5553-C378-4C02-8F79-BE06F70C0366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BD5553-C378-4C02-8F79-BE06F70C0366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BD5553-C378-4C02-8F79-BE06F70C0366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BD5553-C378-4C02-8F79-BE06F70C0366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E3538C-CE5C-47C6-A063-48B32413A0F0}
+	EndGlobalSection
+EndGlobal
